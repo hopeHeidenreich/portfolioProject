@@ -1,7 +1,7 @@
 # portfolioProject
 
-# Type the following code to run the project:
+Type the following code to run the project:
 
-# npm install
-# npm install nodemon
-# npm run start
+npm install
+npm install nodemon
+npm run start
